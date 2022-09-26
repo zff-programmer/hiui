@@ -1,5 +1,5 @@
 module.exports = {
   // 配置侧边栏部分
-  '/comps/': ['/comps/', '/comps/select.md', '/comps/input.md', '/comps/textarea.md'],
-  '/guide/': ['/guide/', '/guide/design.md'],
+  '/zh/comps/': ['/zh/comps/', '/zh/comps/select.md', '/zh/comps/input.md', '/zh/comps/textarea.md'],
+  '/zh/guide/': ['/zh/guide/', '/zh/guide/design.md'],
 }
