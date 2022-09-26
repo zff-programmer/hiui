@@ -12,9 +12,8 @@ module.exports = {
       description: 'VuePress搭建Element的组件库文档教程示例代码',
     },
   },
-  // base: '/vuepress-starter/', // 基路径
-  base: '/', // 基路径
-  dest: '.vuepress/dist', // 输出目录
+  base: '/hiui/', // 基路径
+  // dest: '.vuepress/dist', // 输出目录
   host: '0.0.0.0',
   port: '9000',
   head: [['link', { rel: 'icon', href: '/images/hero.png' }]], // head标签里的logo
@@ -27,7 +26,7 @@ module.exports = {
     // smoothScroll: true,
 
     // 假定 GitHub。也可以是一个完整的 GitLab 网址
-    repo: 'zff-programmer/vuepress-starter',
+    repo: 'zff-programmer/hiui',
     // 如果你的文档不在仓库的根部
     docsDir: 'docs',
     // 可选，默认为 master
