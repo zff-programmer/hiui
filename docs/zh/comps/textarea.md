@@ -7,7 +7,7 @@
   <textarea class="hi-textarea" placeholder="请输入..." ></textarea>
 </template>
 <style>
-  @import '../packages/styles/textarea.css';
+  @import '../../packages/styles/textarea.css';
 </style>
 ```
 :::
@@ -20,7 +20,7 @@
   <textarea class="hi-textarea" placeholder="请输入..." disabled></textarea>
 </template>
 <style>
-  @import '../packages/styles/textarea.css';
+  @import '../../packages/styles/textarea.css';
 </style>
 ```
 :::
@@ -33,7 +33,7 @@
   <textarea class="hi-textarea" placeholder="请输入..." readonly></textarea>
 </template>
 <style>
-  @import '../packages/styles/textarea.css';
+  @import '../../packages/styles/textarea.css';
 </style>
 ```
 :::
@@ -46,7 +46,7 @@
   <textarea class="hi-textarea" placeholder="请输入..." width="100%"></textarea>
 </template>
 <style>
-  @import '../packages/styles/textarea.css';
+  @import '../../packages/styles/textarea.css';
 </style>
 ```
 :::
@@ -65,7 +65,7 @@
   <textarea class="hi-textarea" placeholder="请输入..." resize="both"></textarea>
 </template>
 <style>
-  @import '../packages/styles/textarea.css';
+  @import '../../packages/styles/textarea.css';
 </style>
 ```
 :::
@@ -77,7 +77,7 @@
   <div class="hi-textarea"><textarea rows="4" resize></textarea></div>
 </template>
 <style>
-  @import '../packages/styles/textarea.css';
+  @import '../../packages/styles/textarea.css';
 </style>
 ```
 :::
@@ -89,7 +89,7 @@
   <div class="hi-textarea"><textarea rows="4" resize="vertical" style="display:block;"></textarea></div>
 </template>
 <style>
-  @import '../packages/styles/textarea.css';
+  @import '../../packages/styles/textarea.css';
 </style>
 ```
 :::
@@ -106,7 +106,7 @@
   <div class="hi-textarea"><textarea is-error></textarea></div>
 </template>
 <style>
-  @import '../packages/styles/textarea.css';
+  @import '../../packages/styles/textarea.css';
 </style>
 ```
 :::

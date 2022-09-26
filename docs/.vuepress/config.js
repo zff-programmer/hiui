@@ -13,6 +13,7 @@ module.exports = {
     },
   },
   base: '/hiui/', // 基路径
+  // base: '/',
   // dest: '.vuepress/dist', // 输出目录
   host: '0.0.0.0',
   port: '9000',
